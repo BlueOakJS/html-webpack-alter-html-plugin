@@ -1,0 +1,19 @@
+{
+  "name": "html-webpack-alter-html-plugin",
+  "version": "1.0.0",
+  "description": "Alter the HTML file programatically that html-webpack-plugin generates",
+  "copyright": "Copyright (c) 2017 PointSource LLC. All rights reserved.",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": "BlueOakJS/html-webpack-alter-html-plugin",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+    "template"
+  ],
+  "homepage": "https://github.com/BlueOakJS/html-webpack-alter-html-plugin"
+}
